@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/v2fly/BrowserBridge/handler"
+	"github.com/predators46/BrowserBridge/handler"
 )
 
 func main() {
